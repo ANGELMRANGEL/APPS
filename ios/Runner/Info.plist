@@ -43,7 +43,12 @@
 	<true/>
 
 
-
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Requiero permiso para usar el bluetooth</string>
+	<key>NSCameraUsageDescription</key>
+    <string>Requiero permiso para usar la camara</string>
+	<key>PermissionGroupNotification</key>
+    <string>Requiero permisos para usar notificaciones</string>
 
 
 	<key>UILaunchStoryboardName</key>
